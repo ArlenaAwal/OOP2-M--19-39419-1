@@ -1,0 +1,5 @@
+E:\USER\2020-2021,Spring\OOP2\sec-M\Basic Solutions sol\Basic Solutions\bin\Debug\Basic Solutions.exe.config
+E:\USER\2020-2021,Spring\OOP2\sec-M\Basic Solutions sol\Basic Solutions\bin\Debug\Basic Solutions.exe
+E:\USER\2020-2021,Spring\OOP2\sec-M\Basic Solutions sol\Basic Solutions\bin\Debug\Basic Solutions.pdb
+E:\USER\2020-2021,Spring\OOP2\sec-M\Basic Solutions sol\Basic Solutions\obj\Debug\Basic Solutions.exe
+E:\USER\2020-2021,Spring\OOP2\sec-M\Basic Solutions sol\Basic Solutions\obj\Debug\Basic Solutions.pdb
