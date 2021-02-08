@@ -6,17 +6,24 @@ using System.Threading.Tasks;
 
 namespace lab3
 {
-    class Student
+    public class Student
     {
-        private String name, id, department;
-        private float cgpa;
+        public String name, id, department;
+        public float cgpa;
 
-        public Student(String name, String id, String department, float cgpa)
+        public Student(string name, string id, string department, float cgpa)
         {
-            name= this.name;
-            id= this.id;
-            department= this.department;
-            cgpa= this.cgpa;
+           this.name= name;
+           this.id= id;
+           this.department= department;
+           this.cgpa= cgpa;
+        }
+        public void showInfo()
+        {
+            Console.WriteLine("Name:" + name);
+            Console.WriteLine("ID:" + id);
+            Console.WriteLine("Department:" + department);
+            Console.WriteLine("cgpa:" + cgpa);
         }
 
     }
